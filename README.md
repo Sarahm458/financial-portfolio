@@ -1,3 +1,46 @@
+# Financial Portfolio Management System
+
+## Description:
+Financial Portfolio Management System tailored for individual investors and financial advisors,
+The focus will be on creating a secure and efficient system for managing investment portfolios without overlapping with unrelated features.
+
+## Table of Contents
+- Installation
+- Functionalities
+- Contributing
+
+## Installation
+To set up the project locally, follow these steps:
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/financial-portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd financial-portfolio
+    ```
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+
+## Functionalities
+
+
+## Contributing
+Guidelines for contributing to the project:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
