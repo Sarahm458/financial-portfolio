@@ -29,7 +29,9 @@ To set up the project locally, follow these steps:
     ```
 
 ## Functionalities
-
+1. Dashboard Component: Create a dynamic dashboard that displays key financial metrics and portfolio insights.
+2. Portfolio Management Component: Develop components for creating, editing, and viewing investment portfolios.
+3. Transaction Management Component: Implement components for handling buy, sell, and transfer transactions.
 
 ## Contributing
 Guidelines for contributing to the project:
